@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Volkswagen Golf",
+      "descricao": "BOM",
+      "preco": "80.000,00.",
+      "avaliacao": "4.5",
+      "marca":"Volkswagen"
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang",
+      "descricao": "BOM",
+      "preco": "50.000,00.",
+      "avaliacao": "5",
+      "marca":"Ford"
+    },
+    {
+      "id": 3,
+      "name": " Toyota Corolla",
+      "descricao": "BOM",
+      "preco": "100.000,00.",
+      "avaliacao": "5",
+      "marca":" Toyota"
+    },
+    {
+      "id": 4,
+      "name": "BMW X5",
+      "descricao": "BOM",
+      "preco": "150.000,00.",
+      "avaliacao": "4",
+      "marca":"BMW"
+    },
+    {
+      "id": 5,
+      "name": "Honda Civic",
+      "descricao": "BOM",
+      "preco": "90.000,00.",
+      "avaliacao": "4.8",
+      "marca":"Honda"
+    }
+  ]
+}
